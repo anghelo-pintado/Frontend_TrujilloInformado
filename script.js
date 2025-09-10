@@ -1,5 +1,6 @@
 // Placeholder para tu endpoint de API de Spring Boot
-const apiUrl = "http://localhost:8080/api/v1/reporte";
+const apiUrl =
+  "https://trujillo-informado-backend-3b3a9e8b54ac.herokuapp.com/api/v1/reporte";
 
 /**
  * Muestra un modal con un mensaje.
